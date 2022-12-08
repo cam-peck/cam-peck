@@ -1,8 +1,14 @@
-# Howdy!
+# Howdy! 👋
 
-I'm Cameron, a web developer that recently finished LearningFuze's full-time immersive bootcamp. My first (and current) home is in Indianapolis, but a large part of my heart belongs to Kobe, Japan after staying there for ~4 years. I really like working with React & D3, and am currently working on wrapping my mind around React hooks -- particularly `useEffect`. When I'm not working at the computer, I'm either practicing Debussey's Arabesque #2 or playing an RPG on Nintendo Switch. 
+I'm Cameron, a web developer that recently finished LearningFuze's full-time immersive bootcamp. 
 
-## Technologies & Tools
+##  💬 About Me
+
+- 🏠  I currently live in Indianapolis, but a large part of my heart belongs to Kobe, Japan after staying there for ~4 years. 
+- 🧠  I'm currently working to understand React hooks -- particularly `useEffect`. 
+- ⛱️  When I'm not working at the computer, I'm either practicing Debussey's Arabesque #2 🎹 or playing on my Nintendo Switch 🎮. 
+
+## 💿 Technologies & Tools 
 
 <div class="tech" align=left>
   <img src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white" alt="html5"/>
@@ -29,7 +35,7 @@ I'm Cameron, a web developer that recently finished LearningFuze's full-time imm
   <img src="https://img.shields.io/badge/-Ubuntu-purple?logo=ubuntu&logoColor=white" alt="github"/>
 </div>
 
-## GitHub Stats
+## 📊 GitHub Stats 
 
 <a href="https://github.com/cam-peck">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cam-peck&hide=python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -39,16 +45,16 @@ I'm Cameron, a web developer that recently finished LearningFuze's full-time imm
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cam-peck&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
+<a href="https://github.com/cam-peck/acnh-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cam-peck&repo=acnh-tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/cam-peck/final-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cam-peck&repo=final-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-## Let's Connect!
+## 🔗 Let's Connect! 
 
 - <a href="https://www.linkedin.com/in/cameronjpeck">LinkedIn</a>
 - <a href="https://www.linkedin.com/in/cameronjpeck/overlay/1635504958041/single-media-viewer">Portfolio</a>
