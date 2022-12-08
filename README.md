@@ -8,7 +8,7 @@ I'm Cameron, a web developer that recently finished LearningFuze's full-time imm
 - 🧠  I'm currently working to understand React hooks -- particularly `useEffect`. 
 - ⛱️  When I'm not working at the computer, I'm either practicing Debussey's Arabesque #2 🎹 or playing on my Nintendo Switch 🎮. 
 
-## 💿 Technologies & Tools 
+## 🛠️ Technologies & Tools 
 
 <div class="tech" align=left>
   <img src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white" alt="html5"/>
