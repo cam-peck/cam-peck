@@ -35,7 +35,7 @@ I'm Cameron, a web developer that recently finished LearningFuze's full-time imm
   <img src="https://img.shields.io/badge/-Ubuntu-purple?logo=ubuntu&logoColor=white" alt="github"/>
 </div>
 
-- 💗 I'm really into TailwindCSS right now, but I like React a lot as well!
+- 💗 React & Tailwind with a side helping of Node.js
 
 ## 📊 GitHub Stats 
 
