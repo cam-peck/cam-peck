@@ -60,7 +60,7 @@ I'm Cameron, a web developer that recently finished LearningFuze's full-time imm
 ## 🔗 Let's Connect! 
 
 - <a href="https://www.linkedin.com/in/cameronjpeck">LinkedIn</a>
-- <a href="https://www.linkedin.com/in/cameronjpeck/overlay/1635504958041/single-media-viewer">Portfolio</a>
+- <a href="https://www.linkedin.com/in/cameronjpeck/overlay/1635504958041/single-media-viewer">Resume</a>
 
 <!---
 cam-peck/cam-peck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
