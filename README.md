@@ -41,20 +41,20 @@ I'm Cameron, a web developer that recently finished LearningFuze's full-time imm
 ## 📊 GitHub Stats 
 
 <a href="https://github.com/cam-peck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cam-peck&hide=python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cam-peck&hide=python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/cam-peck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cam-peck&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cam-peck&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 <a href="https://github.com/cam-peck/acnh-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cam-peck&repo=acnh-tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cam-peck&repo=acnh-tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/cam-peck/final-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cam-peck&repo=final-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cam-peck&repo=final-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 ## 🔗 Let's Connect! 
