@@ -5,8 +5,8 @@ I'm Cameron, a web developer that recently finished LearningFuze's full-time imm
 ##  💬 About Me
 
 - 🏠  I currently live in Indianapolis, but a large part of my heart belongs to Kobe, Japan after staying there for ~4 years. 
-- 🧠  I'm currently working to understand React hooks -- particularly `useEffect`. React components are awesome!
-- ⏭️  I'm looking for a front-end or full-stack position to keep honing my React skills.
+- 🧠  I'm currently working on TypeScript and React hooks.
+- ⏭️  I'm looking for a back-end or full-stack position with any PERN languages.
 - ⛱️  When I'm not working at the computer, I'm either practicing Debussey's Arabesque #2 🎹 or playing on my Nintendo Switch 🎮. 
 
 ## 🛠️ Technologies & Tools 
