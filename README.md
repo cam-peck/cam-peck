@@ -1,13 +1,13 @@
 # Howdy! 👋
 
-I'm Cameron, a web developer that recently finished LearningFuze's full-time immersive bootcamp. 
+I'm Cameron, a full-stack developer.
 
 ##  💬 About Me
 
 - 🏠  I currently live in Indianapolis, but a large part of my heart belongs to Kobe, Japan after staying there for ~4 years. 
-- 🧠  I'm currently working on TypeScript and React hooks.
-- ⏭️  I'm looking for a back-end or full-stack position with any PERN languages.
-- ⛱️  When I'm not working at the computer, I'm either practicing Debussey's Arabesque #2 🎹 or playing on my Nintendo Switch 🎮. 
+- 🧠  I'm currently working on different testing suites. Most of my focus right now is on Cypress.
+- ⏭️  I'm looking for a front-end, back-end, or full-stack position with any PERN languages.
+- ⛱️  When I'm not working at the computer, I'm either reading The Wheel of Time series or playing on my Nintendo Switch 🎮. 
 
 ## 🛠️ Technologies & Tools 
 
