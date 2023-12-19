@@ -1,12 +1,12 @@
 # Howdy! 👋
 
-I'm Cameron, a full-stack developer.
+I'm Cameron, a QA Automation Engineer.
 
 ##  💬 About Me
 
-- 🏠  I currently live in Indianapolis, but a large part of my heart belongs to Kobe, Japan after staying there for ~4 years. 
-- 🧠  I'm currently working on different testing suites. Most of my focus right now is on Cypress.
-- ⏭️  I'm looking for a front-end, back-end, or full-stack position with any PERN languages.
+- 🏠  I live in Monterey, but a large part of my heart belongs to Kobe, Japan after staying there for ~4 years. 
+- 🧠  I'm currently working on automating testing for HOTB Software.
+- ⏭️  My future includes DevQAOps with a splash of backend work. I'm currently learning Spring.
 - ⛱️  When I'm not working at the computer, I'm either reading The Wheel of Time series or playing on my Nintendo Switch 🎮. 
 
 ## 🛠️ Technologies & Tools 
